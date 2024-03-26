@@ -4,12 +4,12 @@
 }
 
 p {
-    color: #e6f703;
+    color: #f73c03;
     font-size: 2.5rem;
 }
 
 body {
-    background-color: #BD93BD;
+    background-color: #cff5f3;
     text-align: center;
 }
 
@@ -37,8 +37,9 @@ body {
     border: none;
     box-shadow: 0 0 1rem rgba(0,0,0,0.3);
     font-size: 8vmin;
-    color: #F05365;
+    color: #ec0d27;
     background-color: #F2EDEB;
+    cursor: pointer;
 }
 
 .reset-btn {
@@ -48,6 +49,7 @@ body {
     color: #fff;
     border: none;
     border-radius: 1rem;
+    cursor: pointer;
 }
 
 .win-msg {
@@ -60,7 +62,7 @@ body {
 }
 
 .msg {
-    color: #fff;
+    color: #ddac0d;
     font-size: 2.7rem;
 }
 
@@ -71,6 +73,7 @@ body {
     color: #fff;
     border: none;
     border-radius: 1rem;
+    cursor: pointer;
 }
 
 .hide {
